@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MOOD TRACKER</string>
+    <string name="please_enter_a_mood">Please enter a mood!</string>
+</resources>
